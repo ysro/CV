@@ -19,6 +19,6 @@ latest_posts:
   enabled: false
 ---
 
-I am a Master's student at the [Statistical Inference and Information Theory (SIIT) Lab](http://siit.kaist.ac.kr/) in the School of Electrical Engineering at KAIST, advised by Professor [Junmo Kim](https://scholar.google.com/citations?user=GdQtWi0AAAAJ). Prior to joining KAIST, I completed my undergraduate studies at Yonsei University, where I double-majored in Civil Engineering and Electrical Engineering.
+I am a Master's student at the [Statistical Inference and Information Theory (SIIT) Lab](http://siit.kaist.ac.kr/) in the School of Electrical Engineering at KAIST, advised by Professor [Junmo Kim](https://scholar.google.com/citations?user=GdQtWNQAAAAJ&hl=en). Prior to joining KAIST, I completed my undergraduate studies at Yonsei University, where I double-majored in Civil Engineering and Electrical Engineering.
 
 My research interests lie in enhancing the reliability of Multimodal Large Language Models (MLLMs) and Explainable AI (XAI), with a focus on making AI systems more trustworthy and interpretable.
